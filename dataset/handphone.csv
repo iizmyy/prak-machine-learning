@@ -1,15 +1,15 @@
 Handphone,Baterai,Kamera,Harga,Layak_Direkomendasikan
-H1,Kuat,Tinggi,Sangat,Murah,Ya
-H2,Kuat,Tinggi,Sangat,Mahal,Ya
+H1,Kuat,Tinggi,Sangat Murah,Ya
+H2,Kuat,Tinggi,Sangat Mahal,Ya
 H3,Kuat,Sedang,Mahal,Ya
 H4,Kuat,Rendah,Mahal,Tidak
-H5,Cukup,Tinggi,Sangat,Murah,Ya
+H5,Cukup,Tinggi,Sangat Murah,Ya
 H6,Cukup,Sedang,Mahal,Ya
-H7,Cukup,Sedang,Sangat,Mahal,Ya
+H7,Cukup,Sedang,Sangat Mahal,Ya
 H8,Cukup,Tinggi,Murah,Ya
 H9,Cukup,Rendah,Mahal,Tidak
-H10,Lemah,Tinggi,Sangat,Murah,Ya
-H11,Lemah,Tinggi,Sangat,Mahal,Tidak
+H10,Lemah,Tinggi,Sangat Murah,Ya
+H11,Lemah,Tinggi,Sangat Mahal,Tidak
 H12,Lemah,Sedang,Mahal,Tidak
 H13,Lemah,Sedang,Murah,Tidak
-H14,Lemah,Rendah,Sangat,Mahal,Tidak
+H14,Lemah,Rendah,Sangat Mahal,Tidak
