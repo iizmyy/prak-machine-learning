@@ -1,0 +1,15 @@
+weather,temperature,humidity,wind,play
+Sunny,35,85,False,Not Play
+Sunny,32,90,True,Not Play
+Cloudy,33,78,False,Play
+Rainy,26,96,False,Play
+Rainy,25,80,False,Play
+Rainy,23,70,True,Not Play
+Cloudy,22,65,True,Play
+Sunny,27,95,False,Not Play
+Sunny,26,70,False,Play
+Rainy,29,80,False,Play
+Sunny,29,70,True,Play
+Cloudy,27,90,True,Play
+Cloudy,32,75,False,Play
+Rainy,27,80,True,Not Play
